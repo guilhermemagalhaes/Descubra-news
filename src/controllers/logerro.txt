@@ -1,0 +1,7 @@
+erro: CAUGHT EXCEPTION no arquivo: C:\xampp\htdocs\descubranews\app\DB.class.php ( linha 9 ) :: IP(::1) data:13/06/18 14:07:36
+erro: CAUGHT EXCEPTION no arquivo: C:\xampp\htdocs\descubranews\src\models\dao\GeralDAO.class.php ( linha 19 ) :: IP(::1) data:13/06/18 14:07:39
+erro: CAUGHT EXCEPTION no arquivo: C:\xampp\htdocs\descubranews\src\models\dao\GeralDAO.class.php ( linha 19 ) :: IP(::1) data:13/06/18 14:07:39
+erro: CAUGHT EXCEPTION no arquivo: C:\xampp\htdocs\descubranews\src\models\dao\GeralDAO.class.php ( linha 19 ) :: IP(::1) data:13/06/18 14:07:39
+erro: CAUGHT EXCEPTION no arquivo: C:\xampp\htdocs\descubranews\src\models\dao\GeralDAO.class.php ( linha 19 ) :: IP(::1) data:13/06/18 14:07:39
+erro: CAUGHT EXCEPTION no arquivo: D:\xampp\htdocs\descubranews\src\models\dao\GeralDAO.class.php ( linha 19 ) :: IP(127.0.0.1) data:20/06/19 04:38:05
+erro: CAUGHT EXCEPTION no arquivo: D:\xampp\htdocs\descubranews\src\models\dao\GeralDAO.class.php ( linha 19 ) :: IP(127.0.0.1) data:06/01/20 23:48:31
