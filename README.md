@@ -1,3 +1,3 @@
 # README #
 
-![alt text](images/nomeelogo.png "image title")
+![alt text](images/logo-fundo-preto.png "image title")
