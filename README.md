@@ -1,3 +1,3 @@
-# README #
+# DESCUBRANEWS #
 
-![alt text](images/nomeelogo.png "image title")
+![alt text](images/logo-fundo-preto.PNG "image title")
