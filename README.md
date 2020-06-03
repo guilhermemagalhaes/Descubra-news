@@ -25,5 +25,8 @@ Principais tecnologia utiliazadas: PHP, HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY
 #Administrador
 ![alt text](images/Readme/Administrador.png "Administrador")
 
+## Contato
+Linkedin: https://www.linkedin.com/in/guilhermebatistamagalhaes/
+
 
 
